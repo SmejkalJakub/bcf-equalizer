@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "arm_common_tables.h": "c",
-        "adafruit_zerofft.h": "c"
-    }
-}
